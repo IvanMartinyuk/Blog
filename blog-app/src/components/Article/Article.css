@@ -1,0 +1,13 @@
+h1 {
+    margin-block-start: 0;
+}
+
+.imageDi {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+
+img {
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+C:\Users\Ivan\source\repos\BlogApi\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Ivan\source\repos\BlogApi\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Ivan\source\repos\BlogApi\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Ivan\source\repos\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Ivan\source\repos\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Ivan\source\repos\BlogApi\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Ivan\source\repos\BlogApi\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Ivan\source\repos\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\Downloads\final projects\blog\blog\BlogApi\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

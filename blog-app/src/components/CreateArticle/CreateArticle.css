@@ -1,0 +1,50 @@
+textarea {
+    width: 730px;
+    max-width: 730px;
+    min-width: 730px;
+    height: 250px;
+    min-height: 250px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.form {
+    text-align: center;
+}
+.fl {
+    display: flex;
+    justify-content: space-around;
+}
+.textinput {
+    width: 30%;
+    border-radius: 5px;
+    border: none;
+    height: 20px;
+}
+
+.i {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.imageDiv {
+    width: 300px;
+    height: 200px;
+    border: none;
+}
+
+.nw {
+    width: 250px;
+}
+
+.nm {
+    margin-top: 80px;
+}
+
+.galka {
+    width: 30px;
+    position: absolute;
+    left: 90%;
+    top: 10px;
+}
